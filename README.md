@@ -68,3 +68,16 @@
 14. [Learn Android Application Development](https://www.udemy.com/certificate/UC-4201b477-a763-4f45-bc98-845efdb9d7e0/)
 15. [NetBeans | Your Basic Java Programming Course](https://www.udemy.com/certificate/UC-c36c1b06-abf1-4782-85fa-4d96ff3de429/)
 ***
+
+## Coding Ninjas
+***
+1. [Nasscom Java (Certificate of excellence)](https://certificate.codingninjas.com/verify/7b80ff7fecbb49c9)
+***
+
+## Other Profiles
+***
+1. [Google Scholar](https://scholar.google.com/citations?user=U1UOlFcAAAAJ&hl=en)
+2. [Google Cloud](https://www.cloudskillsboost.google/public_profiles/c041f200-2493-486a-aeb9-1620bf914350)
+3. [Google Play Store](https://play.google.com/store/apps/developer?id=Alpha-Corp&hl=en&gl=US)
+4. [Linkedin](https://www.linkedin.com/in/rehan-khan25/)
+***
