@@ -27,6 +27,17 @@
 1. [Get Started with Tableau](https://verify.skilljar.com/c/qaq6e3madxnq)
 ***
 
+## Oracle
+***
+1. [Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/f?p=10001:26:5348931750118:::26:P26_USER_ID:400435)
+***
+
+## Authorship
+***
+1. [Internet of Things Security Challenges and Concerns for Cyber Vulnerability](https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210)
+2. [Metaverse Marketing vs Digital Marketing](https://drive.google.com/file/d/1VEy33x6d2sUuqSD-_u5kppQ7WULyDO47/view?usp=sharing)
+***
+
 ## Kaggle
 ***
 1. [Intro to Programming](https://drive.google.com/file/d/1WwO6y6XXsTBPD6LOUAuyQPRjR2OZvkSz/view?usp=share_link)
@@ -37,17 +48,6 @@
 ***
 1. [Java (basic)](https://www.hackerrank.com/certificates/629f601a3ce1)
 2. [SQL (basic)](https://www.hackerrank.com/certificates/a1b3ab7ceaf2)
-***
-
-## Oracle
-***
-1. [Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/f?p=10001:26:5348931750118:::26:P26_USER_ID:400435)
-***
-
-## Authorship
-***
-1. [Internet of Things Security Challenges and Concerns for Cyber Vulnerability](https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210)
-2. [Metaverse Marketing vs Digital Marketing](https://drive.google.com/file/d/1VEy33x6d2sUuqSD-_u5kppQ7WULyDO47/view?usp=sharing)
 ***
 
 ## Udemy
@@ -86,6 +86,10 @@
 3. [Virtual AI engine agent - openweaver](https://drive.google.com/file/d/1vcSAsd3BD4XpvX2k0Fuv-fA_YEgFzUEm/view?usp=share_link)
 4. [Data Science Masterclass by Pantech Prolabs](https://drive.google.com/file/d/1DS_ej7qiNY84bqiQzJn0XVvxDHQHr0La/view?usp=share_link)
 5. [Machine Learning - Apptronix](https://drive.google.com/file/d/1FyLxbhFnZgN_fJRBo4ymoJQNkuhPqMry/view?usp=sharing)
+6. [Ethical Hacking career accelerator - Proficient School](https://drive.google.com/file/d/1REelrklr6zL9F_ZY2krk93yhN4I0iZx5/view?usp=share_link)
+7. [IoT Masterclass by Pantech Prolabs](https://drive.google.com/file/d/1ViwoNuBqK0Sd7Mqdita2t282t9LN1M1a/view?usp=share_link)
+8. [Goldman Sachs Engineering Virtual Program](https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_kp8K6fb5eRwT4aTXY_1646911012031_completion_certificate.pdf)
+9. [Cognizant USA Ready, Set, Agile! Virtual Experience Program](https://insidesherpa.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant_kp8K6fb5eRwT4aTXY_1632489567247_completion_certificate.pdf)
 ***
 
 ## Other Profiles
@@ -94,4 +98,5 @@
 2. [Google Cloud](https://www.cloudskillsboost.google/public_profiles/c041f200-2493-486a-aeb9-1620bf914350)
 3. [Google Play Store](https://play.google.com/store/apps/developer?id=Alpha-Corp&hl=en&gl=US)
 4. [Linkedin](https://www.linkedin.com/in/rehan-khan25/)
+5. [Holopin](https://www.holopin.io/@rehan#)
 ***
