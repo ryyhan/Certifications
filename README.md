@@ -43,3 +43,9 @@
 ***
 1. [Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/f?p=10001:26:5348931750118:::26:P26_USER_ID:400435)
 ***
+
+## Authorship
+***
+1. [Internet of Things Security Challenges and Concerns for Cyber Vulnerability](https://www.igi-global.com/chapter/internet-of-things-security-challenges-and-concerns-for-cyber-vulnerability/304210)
+2. [Metaverse Marketing vs Digital Marketing](https://drive.google.com/file/d/1VEy33x6d2sUuqSD-_u5kppQ7WULyDO47/view?usp=sharing)
+***
