@@ -24,5 +24,22 @@
 
 ## Tableau
 ***
-[Get Started with Tableau](https://verify.skilljar.com/c/qaq6e3madxnq)
+1. [Get Started with Tableau](https://verify.skilljar.com/c/qaq6e3madxnq)
+***
+
+## Kaggle
+***
+1. [Intro to Programming](https://drive.google.com/file/d/1WwO6y6XXsTBPD6LOUAuyQPRjR2OZvkSz/view?usp=share_link)
+2. [Python](https://drive.google.com/file/d/1CtEKQi2RLni4m5MEd-wTN-iqSO14Ded4/view?usp=sharing)
+***
+
+## Hackerrank
+***
+1. [Java (basic)](https://www.hackerrank.com/certificates/629f601a3ce1)
+2. [SQL (basic)](https://www.hackerrank.com/certificates/a1b3ab7ceaf2)
+***
+
+## Oracle
+***
+1. [Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/f?p=10001:26:5348931750118:::26:P26_USER_ID:400435)
 ***
