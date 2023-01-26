@@ -73,6 +73,20 @@
 ***
 1. [Nasscom Java (Certificate of excellence)](https://certificate.codingninjas.com/verify/7b80ff7fecbb49c9)
 ***
+## Cisco
+***
+1. [CyberSecurity Essentials](https://drive.google.com/file/d/16aDNAAkS5J7_ZfsKded9BwWIdVbkJDfD/view?usp=share_link)
+2. [NDG Linux unhatched](https://drive.google.com/file/d/1N4DXVQj7yyFjq7qDhv4oSYSglyo0PodJ/view?usp=share_link)
+***
+
+## Others
+***
+1. [iNeuron internship](https://drive.google.com/file/d/1a3HYIzcVe4B5Hwu-NC0FOYxz30yhFbid/view?usp=sharing)
+2. [Python Programming - openweaver](https://drive.google.com/file/d/12vfRxEDNFQyEp0sgHm-WzsK_7YwWJX0J/view?usp=share_link)
+3. [Virtual AI engine agent - openweaver](https://drive.google.com/file/d/1vcSAsd3BD4XpvX2k0Fuv-fA_YEgFzUEm/view?usp=share_link)
+4. [Data Science Masterclass by Pantech Prolabs](https://drive.google.com/file/d/1DS_ej7qiNY84bqiQzJn0XVvxDHQHr0La/view?usp=share_link)
+5. [Machine Learning - Apptronix](https://drive.google.com/file/d/1FyLxbhFnZgN_fJRBo4ymoJQNkuhPqMry/view?usp=sharing)
+***
 
 ## Other Profiles
 ***
