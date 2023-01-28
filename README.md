@@ -89,7 +89,7 @@
 6. [Ethical Hacking career accelerator - Proficient School](https://drive.google.com/file/d/1REelrklr6zL9F_ZY2krk93yhN4I0iZx5/view?usp=share_link)
 7. [IoT Masterclass by Pantech Prolabs](https://drive.google.com/file/d/1ViwoNuBqK0Sd7Mqdita2t282t9LN1M1a/view?usp=share_link)
 8. [Goldman Sachs Engineering Virtual Program](https://insidesherpa.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_kp8K6fb5eRwT4aTXY_1646911012031_completion_certificate.pdf)
-9. [Cognizant USA Ready, Set, Agile! Virtual Experience Program](https://insidesherpa.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant_kp8K6fb5eRwT4aTXY_1632489567247_completion_certificate.pdf)
+9. [Cognizant Ready, Set, Agile! Virtual Experience Program](https://insidesherpa.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant_kp8K6fb5eRwT4aTXY_1632489567247_completion_certificate.pdf)
 ***
 
 ## Other Profiles
