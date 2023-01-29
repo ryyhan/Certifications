@@ -12,11 +12,6 @@
 8. [Git for Developers Using Github](https://coursera.org/share/5d0dd5dbc6018083160446e06b79df86)
 *** 
 
-## Udacity
-***
-1. [AWS Machine Learning Foundations Nanodegree Program](https://confirm.udacity.com/WKRKQKLQ)
-***
-
 ## Harvard's CS50
 ***
 1. [CS50 Programming with Python](https://cs50.harvard.edu/certificates/7899f410-24d7-4752-90aa-d66014ba02c1)
@@ -25,6 +20,11 @@
 ## Tableau
 ***
 1. [Get Started with Tableau](https://verify.skilljar.com/c/qaq6e3madxnq)
+***
+
+## Udacity
+***
+1. [AWS Machine Learning Foundations Nanodegree Program](https://confirm.udacity.com/WKRKQKLQ)
 ***
 
 ## Oracle
@@ -38,16 +38,16 @@
 2. [Metaverse Marketing vs Digital Marketing](https://drive.google.com/file/d/1VEy33x6d2sUuqSD-_u5kppQ7WULyDO47/view?usp=sharing)
 ***
 
-## Kaggle
-***
-1. [Intro to Programming](https://drive.google.com/file/d/1WwO6y6XXsTBPD6LOUAuyQPRjR2OZvkSz/view?usp=share_link)
-2. [Python](https://drive.google.com/file/d/1CtEKQi2RLni4m5MEd-wTN-iqSO14Ded4/view?usp=sharing)
-***
-
 ## Hackerrank
 ***
 1. [Java (basic)](https://www.hackerrank.com/certificates/629f601a3ce1)
 2. [SQL (basic)](https://www.hackerrank.com/certificates/a1b3ab7ceaf2)
+***
+
+## Kaggle
+***
+1. [Intro to Programming](https://drive.google.com/file/d/1WwO6y6XXsTBPD6LOUAuyQPRjR2OZvkSz/view?usp=share_link)
+2. [Python](https://drive.google.com/file/d/1CtEKQi2RLni4m5MEd-wTN-iqSO14Ded4/view?usp=sharing)
 ***
 
 ## Udemy
@@ -92,7 +92,7 @@
 9. [Cognizant Ready, Set, Agile! Virtual Experience Program](https://insidesherpa.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant_kp8K6fb5eRwT4aTXY_1632489567247_completion_certificate.pdf)
 ***
 
-## Other Profiles
+## Profiles
 ***
 1. [Google Scholar](https://scholar.google.com/citations?user=U1UOlFcAAAAJ&hl=en)
 2. [ORCID ID](https://orcid.org/0000-0002-3788-6832)
