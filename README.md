@@ -96,8 +96,9 @@
 ***
 1. [Google Scholar](https://scholar.google.com/citations?user=U1UOlFcAAAAJ&hl=en)
 2. [ORCID ID](https://orcid.org/0000-0002-3788-6832)
-3. [Google Cloud](https://www.cloudskillsboost.google/public_profiles/c041f200-2493-486a-aeb9-1620bf914350)
-4. [Google Play Store](https://play.google.com/store/apps/developer?id=Alpha-Corp&hl=en&gl=US)
-5. [Linkedin](https://www.linkedin.com/in/rehan-khan25/)
-6. [Holopin](https://www.holopin.io/@rehan#)
+3. [Research Gate](https://www.researchgate.net/profile/Rehan-Khan-58)
+4. [Google Cloud](https://www.cloudskillsboost.google/public_profiles/c041f200-2493-486a-aeb9-1620bf914350)
+5. [Google Play Store](https://play.google.com/store/apps/developer?id=Alpha-Corp&hl=en&gl=US)
+6. [Linkedin](https://www.linkedin.com/in/rehan-khan25/)
+7. [Holopin](https://www.holopin.io/@rehan#)
 ***
