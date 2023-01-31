@@ -69,14 +69,15 @@
 15. [NetBeans | Your Basic Java Programming Course](https://www.udemy.com/certificate/UC-c36c1b06-abf1-4782-85fa-4d96ff3de429/)
 ***
 
-## Coding Ninjas
-***
-1. [Nasscom Java (Certificate of excellence)](https://certificate.codingninjas.com/verify/7b80ff7fecbb49c9)
-***
 ## Cisco
 ***
 1. [CyberSecurity Essentials](https://drive.google.com/file/d/16aDNAAkS5J7_ZfsKded9BwWIdVbkJDfD/view?usp=share_link)
 2. [NDG Linux unhatched](https://drive.google.com/file/d/1N4DXVQj7yyFjq7qDhv4oSYSglyo0PodJ/view?usp=share_link)
+***
+
+## Coding Ninjas
+***
+1. [Nasscom Java (Certificate of excellence)](https://certificate.codingninjas.com/verify/7b80ff7fecbb49c9)
 ***
 
 ## Others
