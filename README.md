@@ -10,6 +10,7 @@
 6. [Philosophy, Science and Religion: Science and Philosophy by The University of Edinburgh](https://coursera.org/share/b2fe5efaa0a92e79121c83b35a08e736)
 7. [Version Control of a Python Project using Git](https://coursera.org/share/74c7441cc23d24516fe76655703614bf)
 8. [Git for Developers Using Github](https://coursera.org/share/5d0dd5dbc6018083160446e06b79df86)
+9. [What is the Metaverse?](https://coursera.org/share/c9063e999dac5c3e4731c1940729c025)
 *** 
 
 ## Harvard's CS50
