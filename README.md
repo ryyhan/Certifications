@@ -23,6 +23,13 @@
 1. [Get Started with Tableau](https://verify.skilljar.com/c/qaq6e3madxnq)
 ***
 
+
+## Internship
+
+***
+1. [Summer Research Intern - NIT Tiruchirappalli](https://drive.google.com/file/d/1oAaU6nYDPynlQENrvDK4PfuS5Qzgm4sy/view?usp=sharing)
+2. 
+***
 ## Udacity
 ***
 1. [AWS Machine Learning Foundations Nanodegree Program](https://confirm.udacity.com/WKRKQKLQ)
