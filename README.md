@@ -25,11 +25,11 @@
 
 
 ## Internship
-
 ***
 1. [Summer Research Intern - NIT Tiruchirappalli](https://drive.google.com/file/d/1oAaU6nYDPynlQENrvDK4PfuS5Qzgm4sy/view?usp=sharing)
-2. 
+2. [Data Analyst - iNeuron](https://drive.google.com/file/d/1a3HYIzcVe4B5Hwu-NC0FOYxz30yhFbid/view?usp=sharing)
 ***
+
 ## Udacity
 ***
 1. [AWS Machine Learning Foundations Nanodegree Program](https://confirm.udacity.com/WKRKQKLQ)
