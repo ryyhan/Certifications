@@ -28,6 +28,7 @@
 ***
 1. [Summer Research Intern - NIT Tiruchirappalli](https://drive.google.com/file/d/1oAaU6nYDPynlQENrvDK4PfuS5Qzgm4sy/view?usp=sharing)
 2. [Data Analyst - iNeuron](https://drive.google.com/file/d/1a3HYIzcVe4B5Hwu-NC0FOYxz30yhFbid/view?usp=sharing)
+3. [Machine Learning - iNeuron](https://drive.google.com/file/d/1M91cvrGodqECB5N-WDVv8Qf_hqgHFoSw/view?usp=sharing)
 ***
 
 ## Udacity
