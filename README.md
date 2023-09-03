@@ -9,9 +9,10 @@
 5. [Philosophy of Science by University of Pennsylvania](https://coursera.org/share/d75d6f6a1344a892ffdc9b3c6bc05ef1)
 6. [Intellectual Humility: Theory by The University of Edinburgh](https://coursera.org/share/65537ef1b72fe318474289389a3d4cea)
 7. [Philosophy, Science and Religion: Science and Philosophy by The University of Edinburgh](https://coursera.org/share/b2fe5efaa0a92e79121c83b35a08e736)
-8. [Version Control of a Python Project using Git](https://coursera.org/share/74c7441cc23d24516fe76655703614bf)
-9. [Git for Developers Using Github](https://coursera.org/share/5d0dd5dbc6018083160446e06b79df86)
-10. [What is the Metaverse?](https://coursera.org/share/c9063e999dac5c3e4731c1940729c025)
+8. [AI, Empathy & Ethics](https://coursera.org/share/d81ab6a4e2edbaafef0487f0e09db615)
+9. [Version Control of a Python Project using Git](https://coursera.org/share/74c7441cc23d24516fe76655703614bf)
+10. [Git for Developers Using Github](https://coursera.org/share/5d0dd5dbc6018083160446e06b79df86)
+11. [What is the Metaverse?](https://coursera.org/share/c9063e999dac5c3e4731c1940729c025)
 *** 
 
 ## Harvard's CS50
