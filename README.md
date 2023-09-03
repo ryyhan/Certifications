@@ -93,7 +93,7 @@
 
 ## Others
 ***
-1. [iNeuron internship](https://drive.google.com/file/d/1a3HYIzcVe4B5Hwu-NC0FOYxz30yhFbid/view?usp=sharing)
+1. [Google PlayStore Listing Certificate](https://www.credential.net/7404825c-e679-4cbc-a230-04ec8f69d3af#gs.4nyxfr)
 2. [Python Programming - openweaver](https://drive.google.com/file/d/12vfRxEDNFQyEp0sgHm-WzsK_7YwWJX0J/view?usp=share_link)
 3. [Virtual AI engine agent - openweaver](https://drive.google.com/file/d/1vcSAsd3BD4XpvX2k0Fuv-fA_YEgFzUEm/view?usp=share_link)
 4. [Data Science Masterclass by Pantech Prolabs](https://drive.google.com/file/d/1DS_ej7qiNY84bqiQzJn0XVvxDHQHr0La/view?usp=share_link)
