@@ -2,17 +2,18 @@
 
 ## Coursera
 ***
-1. [Google Data Analytics](https://coursera.org/share/39f0b14ad225cf5a121c9b055c0f5b3d)
-2. [Google Cyber Security Specialization](https://coursera.org/share/1fb668d82817b9c555d61e363b637f6c)
-3. [How to Write and Publish a Scientific Paper (Project-Centered Course) by École Polytechnique](https://coursera.org/share/b9e93f57f5222a9dc7c56d478f75ddb9)
-4. [Introduction to Psychology by Yale University](https://coursera.org/share/ca8f034fec4f9f968989cd9e100115ea)
-5. [Philosophy of Science by University of Pennsylvania](https://coursera.org/share/d75d6f6a1344a892ffdc9b3c6bc05ef1)
-6. [Intellectual Humility: Theory by The University of Edinburgh](https://coursera.org/share/65537ef1b72fe318474289389a3d4cea)
-7. [Philosophy, Science and Religion: Science and Philosophy by The University of Edinburgh](https://coursera.org/share/b2fe5efaa0a92e79121c83b35a08e736)
-8. [AI, Empathy & Ethics](https://coursera.org/share/d81ab6a4e2edbaafef0487f0e09db615)
-9. [Version Control of a Python Project using Git](https://coursera.org/share/74c7441cc23d24516fe76655703614bf)
-10. [Git for Developers Using Github](https://coursera.org/share/5d0dd5dbc6018083160446e06b79df86)
-11. [What is the Metaverse?](https://coursera.org/share/c9063e999dac5c3e4731c1940729c025)
+1. [Machine Learning Specialization - by Andrew Ng](https://coursera.org/share/464bc431652f368c65129ccfd46cfda1)
+2. [Google Data Analytics](https://coursera.org/share/39f0b14ad225cf5a121c9b055c0f5b3d)
+3. [Google Cyber Security Specialization](https://coursera.org/share/1fb668d82817b9c555d61e363b637f6c)
+4. [How to Write and Publish a Scientific Paper (Project-Centered Course) by École Polytechnique](https://coursera.org/share/b9e93f57f5222a9dc7c56d478f75ddb9)
+5. [Introduction to Psychology by Yale University](https://coursera.org/share/ca8f034fec4f9f968989cd9e100115ea)
+6. [Philosophy of Science by University of Pennsylvania](https://coursera.org/share/d75d6f6a1344a892ffdc9b3c6bc05ef1)
+7. [Intellectual Humility: Theory by The University of Edinburgh](https://coursera.org/share/65537ef1b72fe318474289389a3d4cea)
+8. [Philosophy, Science and Religion: Science and Philosophy by The University of Edinburgh](https://coursera.org/share/b2fe5efaa0a92e79121c83b35a08e736)
+9. [AI, Empathy & Ethics](https://coursera.org/share/d81ab6a4e2edbaafef0487f0e09db615)
+10. [Version Control of a Python Project using Git](https://coursera.org/share/74c7441cc23d24516fe76655703614bf)
+11. [Git for Developers Using Github](https://coursera.org/share/5d0dd5dbc6018083160446e06b79df86)
+12. [What is the Metaverse?](https://coursera.org/share/c9063e999dac5c3e4731c1940729c025)
 *** 
 
 ## Harvard's CS50
