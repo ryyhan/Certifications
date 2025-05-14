@@ -118,4 +118,5 @@
 7. [Linkedin](https://www.linkedin.com/in/rehan-khan25/)
 8. [Holopin](https://www.holopin.io/@rehan#)
 9. [Neo4j](https://graphacademy.neo4j.com/u/86e40e6f-011a-494b-9545-0c2de8489c76/)
+10. [Microsoft Azure](https://learn.microsoft.com/en-gb/users/ryyhan/)
 ***
